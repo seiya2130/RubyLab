@@ -1,7 +1,7 @@
 class Test
-  def self.Test
+  def self.test
     puts "Test"
   end
 end
 
-Test.Test 
+Test.test
